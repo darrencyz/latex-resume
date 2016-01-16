@@ -1,14 +1,14 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  16 JAN 2016 16:56
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  16 JAN 2016 17:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**cv_10.tex
-(./cv_10.tex
+**resume.tex
+(./resume.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-(./friggeri-cv.cls
-Document Class: friggeri-cv 2012/04/30 CV class
+(./resume.cls
+Document Class: resume 2012/04/30 CV class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
@@ -1116,7 +1116,7 @@ File: english.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
 \@quotelevel=\count313
 \@quotereset=\count314
 
-(./cv_10.aux)
+(./resume.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -1231,8 +1231,6 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
-
-(./cv_10.out) (./cv_10.out)
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 58.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
@@ -1290,12 +1288,12 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
 Package pagesel Notice: Aborting LaTeX job after last selected page (1).
  ) 
 Here is how much of TeX's memory you used:
- 40549 strings out of 493706
- 766405 string characters out of 6145769
- 994122 words of memory out of 5000000
+ 40544 strings out of 493706
+ 766336 string characters out of 6145769
+ 994109 words of memory out of 5000000
  43419 multiletter control sequences out of 15000+600000
  5431 words of font info for 65 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 73i,9n,67p,10467b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,9n,67p,10468b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cv_10.pdf (1 page).
+Output written on resume.pdf (1 page).
