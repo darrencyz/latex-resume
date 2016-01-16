@@ -34,8 +34,8 @@
   \colorlet{brown}{gray}
   \colorlet{red}{gray}
   \colorlet{blue}{gray}
-  \colorlet{fillheader}{gray}
-  \colorlet{header}{white}
+  \colorlet{fillheader}{white}
+  \colorlet{header}{gray}
 \else
   \colorlet{fillheader}{gray}
   \colorlet{header}{white}

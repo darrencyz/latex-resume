@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  11 JAN 2016 16:10
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  16 JAN 2016 16:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1246,32 +1246,32 @@ LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 58.
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--71
+Underfull \hbox (badness 10000) in paragraph at lines 58--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--83
+Underfull \hbox (badness 10000) in paragraph at lines 71--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--97
+Underfull \hbox (badness 10000) in paragraph at lines 85--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--115
+Underfull \hbox (badness 10000) in paragraph at lines 103--114
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--126
+Underfull \hbox (badness 10000) in paragraph at lines 115--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--144
+Underfull \hbox (badness 10000) in paragraph at lines 132--143
 
  []
 
@@ -1285,7 +1285,7 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
 
 Package pagesel Notice: Aborting LaTeX job after last selected page (1).
  ) 
